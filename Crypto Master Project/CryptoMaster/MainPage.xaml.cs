@@ -35,7 +35,7 @@ namespace CryptoMaster
 
         private void TranspositionButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\TranspositionCipher\TranspositionCipher\bin\Debug\TranspositionCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -50,7 +50,7 @@ namespace CryptoMaster
 
         private void VertTransButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\VerticalTransportCipher\VerticalTransportCipher\bin\Debug\VerticalTransportCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -65,7 +65,7 @@ namespace CryptoMaster
 
         private void CaeserButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\CaeserCipher\CaeserCipher\bin\Debug\CaeserCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -80,7 +80,7 @@ namespace CryptoMaster
 
         private void BreakCaeserButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\BreakingTheCaeserCipher\BreakingTheCaeserCipher\bin\Debug\net8.0-windows\BreakingTheCaeserCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -95,7 +95,7 @@ namespace CryptoMaster
 
         private void VigenereButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\VigenereCryptoSystem\VigenereCryptoSystem\bin\Debug\net8.0-windows\VigenereCryptoSystem.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -110,7 +110,7 @@ namespace CryptoMaster
 
         private void GammaButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\GammaCipher\GammaCipher\bin\Debug\net8.0-windows\GammaCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -125,7 +125,7 @@ namespace CryptoMaster
 
         private void HillButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\Hill'sCipher\Hill'sCipher\bin\Debug\net8.0-windows\Hill'sCipher.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -140,7 +140,7 @@ namespace CryptoMaster
 
         private void ElGamalButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -155,7 +155,7 @@ namespace CryptoMaster
 
         private void ElGamalDSButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\ElGamalDigSignature\ElGamalDigSignature\bin\Debug\net8.0-windows\ElGamalDigSignature.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -170,7 +170,7 @@ namespace CryptoMaster
 
         private void CipherRSAButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\CipherRSA\CipherRSA\bin\Debug\net8.0-windows\CipherRSA.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
@@ -185,7 +185,7 @@ namespace CryptoMaster
 
         private void AESButton_Click(object sender, RoutedEventArgs e)
         {
-            string solutionPath = @"F:\bachelor\cryptography and information security\labs\CipherAES\CipherAES\bin\Debug\net8.0-windows\CipherAES.exe";
+            string solutionPath = @"PASTE EXACT LOCATION OF THIS CIPHER";
 
             try
             {
