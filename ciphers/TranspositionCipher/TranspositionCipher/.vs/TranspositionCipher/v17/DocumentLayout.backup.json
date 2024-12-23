@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|f:\\bachelor\\cryptography and information security\\labs\\transpositioncipher\\transpositioncipher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC76BA30-3E1D-4EFF-9BE4-BF924DEB775C}|TranspositionCipher.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T07:59:10.597Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:50:54.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\labs\\TranspositionCipher\\TranspositionCipher\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T07:50:55.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

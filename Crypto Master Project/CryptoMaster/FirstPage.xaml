@@ -1,0 +1,28 @@
+﻿<Page x:Class="CryptoMaster.FirstPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CryptoMaster"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CryptoMaster" Background="#FFFDF6E3">
+
+    <Grid>
+        <Image Source="F:/bachelor/cryptography and information security/Crypto Master Project/img/back1.png" Stretch="Fill" Grid.ZIndex="0" />
+
+        <Label Content="Crypto Master" FontFamily="Book Antiqua" FontSize="60" Foreground="DarkBlue" Margin="0,10,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBlock TextWrapping="Wrap" Text="CryptoMaster is a versatile encryption app that supports various methods, including RSA, El Gamal, Hill Cipher, and Digital Signatures (DSA). It offers an easy-to-use interface for encrypting and decrypting text files, ensuring high-level security for your data." FontFamily="Book Antiqua" FontSize="18" Width="350" VerticalAlignment="Top" HorizontalAlignment="Left" TextAlignment="Justify" Margin="50,177,0,0" Foreground="DarkBlue"/>
+        <Button x:Name="StartButton" Content="Start!" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="30" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="555,186,0,0" Click="StartButton_Click" HorizontalContentAlignment="Center" Width="185" Height="94">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

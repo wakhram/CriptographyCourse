@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\bachelor\\cryptography and information security\\labs\\Hill\u0027sCipher\\Hill\u0027sCipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF1A8D7-1881-4B8A-B3E4-20AB8E6CFD3A}|Hill\u0027sCipher.csproj|f:\\bachelor\\cryptography and information security\\labs\\hill\u0027scipher\\hill\u0027scipher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4AF1A8D7-1881-4B8A-B3E4-20AB8E6CFD3A}|Hill\u0027sCipher.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF1A8D7-1881-4B8A-B3E4-20AB8E6CFD3A}|Hill\u0027sCipher.csproj|f:\\bachelor\\cryptography and information security\\labs\\hill\u0027scipher\\hill\u0027scipher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF1A8D7-1881-4B8A-B3E4-20AB8E6CFD3A}|Hill\u0027sCipher.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\labs\\Hill\u0027sCipher\\Hill\u0027sCipher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\labs\\Hill\u0027sCipher\\Hill\u0027sCipher\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T05:05:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\labs\\Hill\u0027sCipher\\Hill\u0027sCipher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\labs\\Hill\u0027sCipher\\Hill\u0027sCipher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAqwOQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:04:58.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

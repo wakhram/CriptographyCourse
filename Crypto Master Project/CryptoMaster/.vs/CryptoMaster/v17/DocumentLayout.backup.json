@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\firstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:firstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|f:\\bachelor\\cryptography and information security\\crypto master project\\cryptomaster\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12B8602C-B094-47EA-8BA8-7E75584455FA}|CryptoMaster.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:34:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "FirstPage.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\FirstPage.xaml",
+              "RelativeToolTip": "FirstPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T03:21:10.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:32:06.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T03:59:25.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPage.xaml.cs",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\FirstPage.xaml.cs",
+              "RelativeDocumentMoniker": "FirstPage.xaml.cs",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\FirstPage.xaml.cs",
+              "RelativeToolTip": "FirstPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:27:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T11:35:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "F:\\bachelor\\cryptography and information security\\Crypto Master Project\\CryptoMaster\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T05:31:08.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

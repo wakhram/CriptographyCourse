@@ -1,0 +1,60 @@
+﻿<Window x:Class="CaeserCipher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CaeserCipher"
+        mc:Ignorable="d"
+        Title="Caesae Cipher" Height="517" Width="1016">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="F:/bachelor/cryptography and information security/Crypto Master Project/img/caesar-back.jpg" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Button x:Name="AttachFileButton" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Attach File" HorizontalAlignment="Left" VerticalAlignment="Top" Click="AttachFileButton_Click" FontFamily="Book Antiqua" FontSize="18" Margin="347,135,0,0"/>
+        <TextBlock x:Name="FilePathTextBlock" Text="No file attached." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="347,98,0,0" FontFamily="Book Antiqua" FontSize="18" Foreground="White"/>
+        <Label Content="This is a program for encrypting or decrypting text with Caeser cipher." FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="To use it..." FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="22,58,0,0"/>
+        <Label Content="1. Attach the file (only &quot;.txt&quot; format):" FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="22,94,0,0"/>
+        <Label Content="2. Choose length of Caeser cipher key :" FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="22,180,0,0"/>
+        <ComboBox x:Name="keyLength" Width="120" VerticalAlignment="Top" HorizontalAlignment="Left" FontFamily="Book Antiqua" FontSize="18" BorderBrush="#FFFFC107" Foreground="#FFFF4081" Margin="534,182,0,0">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FF00BCD4" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label Content="3. Select an action. Regardless of your choice, the file will be saved with the name: &quot;Your file name - &quot; + &quot;encrypted&quot; or &quot;decrypted&quot;!" FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="22,266,0,0"/>
+        <Button x:Name="Encrypt" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Encrypt" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Encrypt_Click" FontFamily="Book Antiqua" FontSize="18" Margin="193,328,0,0"/>
+        <Button x:Name="Decrypt" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Decrypt" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Decrypt_Click" FontFamily="Book Antiqua" FontSize="18" Margin="504,328,0,0"/>
+        <TextBlock x:Name="FilePathTextBlock2" Text="No file saved." HorizontalAlignment="Left" VerticalAlignment="Top" Margin="341,407,0,0" FontFamily="Book Antiqua" FontSize="18" Foreground="White"/>
+        <Label Content="Your file was saved here:" FontFamily="Times New Roman" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Margin="22,403,0,0"/>
+        <Button x:Name="OpenFileButton1" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Open File" HorizontalAlignment="Left" VerticalAlignment="Top" Click="OpenFileButton1_Click" FontFamily="Book Antiqua" FontSize="18" Margin="698,135,0,0"/>
+        <Button x:Name="OpenFileButton2" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Open File" HorizontalAlignment="Left" VerticalAlignment="Top" Click="OpenFileButton2_Click" FontFamily="Book Antiqua" FontSize="18" Margin="341,438,0,0"/>
+    </Grid>
+</Window>

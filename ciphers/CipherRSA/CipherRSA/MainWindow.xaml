@@ -1,0 +1,52 @@
+﻿<Window x:Class="CipherRSA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CipherRSA"
+        mc:Ignorable="d"
+        Title="RSA Cipher" Height="633" Width="855">
+    <Grid HorizontalAlignment="Center" Width="855">
+        <Grid.Background>
+            <ImageBrush ImageSource="F:/bachelor/cryptography and information security/Crypto Master Project/img/neutral-back4.jpg" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Label Content="Choose file to import text: " HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Foreground="Black" Margin="10,10,0,0"/>
+        <TextBlock x:Name="FilePathTextBlock1" TextWrapping="Wrap" Text="No file attached." HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="270,15,0,0"/>
+        <Button Content="Attach file" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="198,13,0,0" Click="AttachFileButton_Click"/>
+        <Button x:Name="Encrypt" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Encrypt" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="11,293,0,0" Click="EncryptButton_Click"/>
+        <Button x:Name="SaveFile" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Save" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="11,558,0,0" Click="SaveFileButton_Click"/>
+        <TextBlock x:Name="FilePathTextBlock2" TextWrapping="Wrap" Text="No file saved." HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="55,560,0,0"/>
+        <TextBox x:Name="ResultText" TextWrapping="Wrap" Margin="11,328,9,62" FontFamily="Book Antiqua" FontSize="14" Foreground="Black" GotFocus="InputTextBox_GotFocus2"
+                 LostFocus="InputTextBox_LostFocus2"/>
+        <TextBox x:Name="ImportedText" TextWrapping="Wrap" Margin="10,42,10,348" FontFamily="Book Antiqua" FontSize="14" Foreground="Black" GotFocus="InputTextBox_GotFocus3"
+                 LostFocus="InputTextBox_LostFocus3"/>
+        <Button x:Name="Transfer" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Transfer" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="0,293,0,0" Click="TransferButton_Click"/>
+        <Button x:Name="Decrypt" 
+                Background="LightBlue"
+                Foreground="Darkgreen"
+                BorderBrush="DarkBlue"
+                BorderThickness="2"
+                Content="Decrypt" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="14" Margin="791,293,0,0" Click="DecryptButton_Click"/>
+
+    </Grid>
+</Window>

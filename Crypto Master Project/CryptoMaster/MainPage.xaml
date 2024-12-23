@@ -1,0 +1,230 @@
+﻿<Page x:Class="CryptoMaster.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CryptoMaster"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage" Background="#FFFDF6E3">
+
+    <Grid>
+        <Image Source="F:/bachelor/cryptography and information security/Crypto Master Project/img/back2.webp" Stretch="Fill" Grid.ZIndex="0" />
+        <Button x:Name="GoBack" Content="Go Back" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="243,252,0,0" Click="GoBackButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue" CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="TranspositionButton" Content="Transposition" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="185,95,0,0" Click="TranspositionButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue" CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="CipherRSAButton" Content="RSA Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="236,153,0,0" Click="CipherRSAButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue" CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="VertTransButton" Content="Vertical Transport" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="464,43,0,0" Click="VertTransButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="CaeserButton" Content="Caeser Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="605,153,0,0" Click="CaeserButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="BreakCaeserButton" Content="Breaking Caeser Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="510,216,0,0" Click="BreakCaeserButton_Click" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="VigenereButton" Content="Vigenere Crypto System" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="16,139,0,0" Click="VigenereButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="GammaButton" Content="Gamma Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="107,218,0,0" Click="GammaButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="HillButton" Content="Hill's Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="390,95,0,0" Click="HillButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="ElGamalButton" Content="El Gamal Cipher" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="84,179,0,0" Click="ElGamalButton_Click" Height="31">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="ElGamalDSButton" Content="El Gamal Digital Signature" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="207,43,0,0" Click="ElGamalDSButton_Click">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="CipherAES" Content="AES" Foreground="White" 
+        FontFamily="Book Antiqua" FontSize="20" HorizontalAlignment="Left" 
+        VerticalAlignment="Top" Margin="523,95,0,0" Click="AESButton_Click" Width="94">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="DarkBlue" Offset="0"/>
+                    <GradientStop Color="LightBlue" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="DarkBlue"  CornerRadius="8" BorderBrush="White" BorderThickness="2">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label Content="Crypto Tree" HorizontalAlignment="Left" Margin="341,216,0,0" VerticalAlignment="Top" FontFamily="Book Antiqua" FontSize="20" Foreground="DarkBlue" Padding="0,0,0,0"/>
+    </Grid>
+</Page>

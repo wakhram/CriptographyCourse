@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCryptoSystem", "VigenereCryptoSystem.csproj", "{404C0D3B-FBF8-4D98-B92B-5E1947F14FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404C0D3B-FBF8-4D98-B92B-5E1947F14FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404C0D3B-FBF8-4D98-B92B-5E1947F14FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404C0D3B-FBF8-4D98-B92B-5E1947F14FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404C0D3B-FBF8-4D98-B92B-5E1947F14FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CAFAB9D-939C-47FD-BD90-2756059C8FA6}
+	EndGlobalSection
+EndGlobal

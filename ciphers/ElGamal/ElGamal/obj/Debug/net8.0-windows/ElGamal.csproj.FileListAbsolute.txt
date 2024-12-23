@@ -1,0 +1,60 @@
+C:\Users\davro\source\repos\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.exe
+C:\Users\davro\source\repos\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.deps.json
+C:\Users\davro\source\repos\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.runtimeconfig.json
+C:\Users\davro\source\repos\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.dll
+C:\Users\davro\source\repos\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.pdb
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.cache
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.lref
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.g.resources
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfoInputs.cache
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfo.cs
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.csproj.CoreCompileInputs.cache
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.dll
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\refint\ElGamal.dll
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.pdb
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.genruntimeconfig.cache
+C:\Users\davro\source\repos\ElGamal\ElGamal\obj\Debug\net8.0-windows\ref\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.exe
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.deps.json
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.runtimeconfig.json
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.pdb
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\App.g.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.lref
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.baml
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.g.resources
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.GeneratedMSBuildEditorConfig.editorconfig
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfoInputs.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfo.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.csproj.CoreCompileInputs.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\refint\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.pdb
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.genruntimeconfig.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\ElGamal\obj\Debug\net8.0-windows\ref\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.exe
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.deps.json
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.runtimeconfig.json
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\bin\Debug\net8.0-windows\ElGamal.pdb
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\App.g.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal_MarkupCompile.lref
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\MainWindow.baml
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.g.resources
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.GeneratedMSBuildEditorConfig.editorconfig
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfoInputs.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.AssemblyInfo.cs
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.csproj.CoreCompileInputs.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\refint\ElGamal.dll
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.pdb
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ElGamal.genruntimeconfig.cache
+F:\bachelor\cryptography and information security\labs\ElGamal\ElGamal\obj\Debug\net8.0-windows\ref\ElGamal.dll
